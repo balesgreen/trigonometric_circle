@@ -44,3 +44,8 @@ Vamos supor uma situação na qual temos que descobrir o PI de 60°.
  Logo PI de 60° é 3, já que 60° * 3 = 180°
 ```
 
+Bom, assim funciona para todos os graus do Ciclo Trigonométrico!
+
+# Tabelas de Seno, Cosseno e Tangente
+
+<img src="https://imgur.com/KnfwIhQ.png">

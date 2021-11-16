@@ -18,3 +18,15 @@ Segundo quadrante é composto por:
      -> 135°
      -> 150°
   ```
+Terceiro quadrante é composto por:
+```
+     -> 210°
+     -> 225°
+     -> 240°
+```
+Quarto quadrante é composto por:
+```
+     -> 300°
+     -> 315°
+     -> 330°
+```

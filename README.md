@@ -39,8 +39,8 @@ Vamos supor uma situação na qual temos que descobrir o PI de 60°.
 <br>
 <br>
     Exemplo:
-          ```
+```
             180° % 3 = 60°
               Logo PI de 60° é 3, já que 60° * 3 = 180°
-          ```
+```
 

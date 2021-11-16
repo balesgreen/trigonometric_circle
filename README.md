@@ -30,3 +30,15 @@ Quarto quadrante é composto por:
      -> 315°
      -> 330°
 ```
+
+# Explicando sobre PI
+
+O valor de PI no Ciclo Trigonométrico equivale a 180° radianos. Ou seja, se surge uma dúvida a respeito de qual é a equivalência de PI para um grau?
+<br><b>Vamos explicar agora!</b>
+Vamos supor uma situação na qual temos que descobrir o PI de 60°.
+    Exemplo:
+          ```
+            180° % 3 = 60°
+              Logo PI de 60° é 3, já que 60° * 3 = 180°
+          ```
+

@@ -8,8 +8,13 @@ Explicação básica a respeito dos quadrantes do Ciclo Trigonométrico.
 
 Primeiro quadrante é composto por:
   ```
-     -> 30
-     -> 45
-     -> 60
-  
+     -> 30°
+     -> 45°
+     -> 60°
   ```
+Segundo quadrante é composto por:
+  ```
+     -> 120°
+     -> 135°
+     -> 150°
+     ```

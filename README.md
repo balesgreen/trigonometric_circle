@@ -49,3 +49,9 @@ Bom, assim funciona para todos os graus do Ciclo Trigonométrico!
 # Tabelas de Seno, Cosseno e Tangente
 
 <img src="https://imgur.com/KnfwIhQ.png">
+
+```
+Cosseno -> na linha de X
+Seno -> na linha de Y
+Tangente -> Linha reta ao lado do Circulo que define 0, 1, -1
+```
